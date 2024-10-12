@@ -1,0 +1,4 @@
+[submodule "user-management-service"]
+	path = user-management-service
+	url = git@github.com:nevalsingh/user-management-service.git
+	branch = main
