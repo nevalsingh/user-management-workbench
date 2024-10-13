@@ -2,3 +2,7 @@
 	path = user-management-service
 	url = git@github.com:nevalsingh/user-management-service.git
 	branch = main
+[submodule "user-management-web"]
+	path = user-management-web
+	url = git@github.com:nevalsingh/user-management-web.git
+	branch = main
